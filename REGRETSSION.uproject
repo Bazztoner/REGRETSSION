@@ -7,6 +7,10 @@
 		{
 			"Name": "PhoenixDevUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
