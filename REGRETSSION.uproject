@@ -1,13 +1,9 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
-		{
-			"Name": "PhoenixDevUtilities",
-			"Enabled": true
-		},
 		{
 			"Name": "CascadeToNiagaraConverter",
 			"Enabled": true
